@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'bebas';
+  src: url('bebas.eot');
+  src: url('bebas.eot?#iefix') format('embedded-opentype'),
+       url('bebas.woff2') format('woff2'),
+       url('bebas.svg#Bebas') format('svg'),
+       url('bebas.ttf') format('truetype'),
+       url('bebas.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'HarabaraMaisBold-HarabaraMaisBold';
+  src: url('HarabaraMaisBold-HarabaraMaisBold.eot');
+  src: url('HarabaraMaisBold-HarabaraMaisBold.eot?#iefix') format('embedded-opentype'),
+       url('HarabaraMaisBold-HarabaraMaisBold.svg#HarabaraMaisBold-HarabaraMaisBold') format('svg'),
+       url('HarabaraMaisBold-HarabaraMaisBold.ttf') format('truetype'),
+       url('HarabaraMaisBold-HarabaraMaisBold.woff') format('woff'),
+       url('HarabaraMaisBold-HarabaraMaisBold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
